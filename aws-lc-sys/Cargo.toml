@@ -66,4 +66,4 @@ paste = "1.0.11"
 openssl = { version = "0.10" }
 
 [package.metadata.aws-lc-sys]
-commit-hash = "cb7712dfa896d32d55992e2cb13d5fa54fb77002"
+commit-hash = "3b1b0c402ffaf0615e506bfaca6484b859e02904"
